@@ -1,6 +1,6 @@
 # AddressFinderExtension
 
-This is a [chrome extension](https://developer.chrome.com/docs/extensions/develop) that can add functionality to your Chrome Browser. Chrome [ developer get started page](https://developer.chrome.com/docs/extensions/get-started) has useful background and examples.
+This is a [chrome extension](https://developer.chrome.com/docs/extensions/develop) that can add functionality to your Chrome Browser. The [chrome developer get started page](https://developer.chrome.com/docs/extensions/get-started) has useful background and examples.
 
 ## Description
 
