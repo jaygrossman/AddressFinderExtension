@@ -4,7 +4,7 @@ This is a [chrome extension](https://developer.chrome.com/docs/extensions/develo
 
 ## Description
 
-Chrome extension that allows user to initiate search for a person's address on the following sites in one action:
+Chrome extension that allows user to initiate searches for a person's address on the following sites in one action:
 
  - [anywho.com](https://www.anywho.com)
  - [familytreenow.com](https://www.familytreenow.com)
