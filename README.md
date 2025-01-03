@@ -19,7 +19,7 @@ Chrome extension that allows user to initiate search for people's addresses on t
 
 ## Usage
 
-In the browser's toolbar, click on the black home icon and search form will appear:
+In the browser's toolbar, click on the  ![home_icon](docs/home_icon.png) icon and search form will appear:
 
  ![search_modal](docs/search_modal.png)
 
