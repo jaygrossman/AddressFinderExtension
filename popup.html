@@ -52,7 +52,7 @@
         button {
             width: 100%;
             padding: 0.75rem;
-            background-color: #3498db;
+            background-color: #cccccc;
             color: white;
             border: none;
             border-radius: 4px;
@@ -68,8 +68,9 @@
 <body>
     <div class="container">
         <h2>Address Finder</h2>
-        <input type="text" id="firstName" placeholder="First Name">
-        <input type="text" id="lastName" placeholder="Last Name">
+        <form id="searchForm">
+        <input type="text" id="firstName" placeholder="First Name (required)">
+        <input type="text" id="lastName" placeholder="Last Name (required)">
         <input type="text" id="city" placeholder="City">
         <select name="state" id="state">
             <option value="">State</option>
@@ -126,8 +127,10 @@
             <option value="WY">Wyoming</option>
         </select>
         <input type="text" id="age" placeholder="Age">
-        <button id="submit">Search</button>
+        <button id="submit" disabled>Search</button>
+        </form>
     </div>
+    <script src="validation.js"></script>
     <script src="popup.js"></script>
 </body>
 </html>
