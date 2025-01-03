@@ -21,7 +21,9 @@ Chrome extension that allows user to initiate searches for a person's address on
 
 In the browser's toolbar, click on the ![home_icon](docs/black_home_icon.png) icon and thesearch form will appear:
 
-![search_form](docs/search_form.png = 250x)
+<img src="docs/search_form.png" alt="Alt Text" width="300" height="200">
+
+![search_form](docs/search_form.png)
 
 Enter the person's first name and last name. The city and state fields are highly recommended if you know the information. 
 
