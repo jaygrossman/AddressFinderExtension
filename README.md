@@ -34,7 +34,7 @@ Click the `Search` button and the extension will open a new tab for each of the 
 **Install**
 
  1. Clone this repo locally to your computer
- 2. In your Chrome browser, navigate to *[chrome://extensions/](chrome://extensions/)* 
+ 2. In your Chrome browser, navigate to **[chrome://extensions/](chrome://extensions/)**
 
 You will see a page like this:
 
