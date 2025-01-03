@@ -21,7 +21,8 @@ Chrome extension that allows user to initiate search for people's addresses on t
 
 ## Usage
 
-In the browser's toolbar, click on the  ![icon](icon.png) icon and search form will appear:
+In the browser's toolbar, click on the black home icon and search form will appear:
+
  ![search_modal](docs/search_modal.png)
 
 Enter the person's first name and last name. The city and state fields are highly recommended if you know them. 
@@ -49,4 +50,4 @@ You will see a page like this:
 
 1. Click on the puzzle icon in the browser toolbar (as shown in the screen above)
 2. Click on the pin next to `Address Finder Extension`
-3. You should now see the  ![icon](icon.png) icon in the toolbar next to the puzzle icon
+3. You should now see the  black home icon in the toolbar next to the puzzle icon
