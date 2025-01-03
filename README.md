@@ -25,7 +25,7 @@ In the browser's toolbar, click on the black home icon and search form will appe
 
  ![search_modal](docs/search_modal.png)
 
-Enter the person's first name and last name. The city and state fields are highly recommended if you know them. 
+Enter the person's first name and last name. The city and state fields are highly recommended if you know the information. 
 
 Click the `Search` button and the extension will open a new tab for each of the sites listed above with the search results for the person you entered:
 
