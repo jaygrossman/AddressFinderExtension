@@ -1,7 +1,5 @@
 # AddressFinderExtension
 
-Author: Jay Grossman (jay@grossman.org)
-
 This is a [chrome extension](https://developer.chrome.com/docs/extensions/develop) that can add functionality to your Chrome Browser. Chrome [ developer get started page](https://developer.chrome.com/docs/extensions/get-started) has useful background and examples.
 
 ## Description
