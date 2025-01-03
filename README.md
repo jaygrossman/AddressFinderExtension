@@ -42,6 +42,7 @@ You will see a page like this:
 
  ![install_extension](docs/install_extension.png)
 
+
  3. Click the `Load unpacked` button and choose the directory where you downloaded the repo
  4. You will see an entry for `Address Finder Extension 1.0` as shown in the screen above. 
 
